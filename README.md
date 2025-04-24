@@ -1,7 +1,7 @@
 # Paint The Pattern Game 🎨
 
 ## About the Game
-"**Paint The Pattern**" is a fun and interactive game where players have to match a color pattern by tapping on buttons that fill specific sections of a 3x3 grid. The game requires precision and timing, offering a great challenge for anyone looking to engage their mind with a colorful puzzle!
+"**Paint The Pattern**" is a fun and interactive game where players have to match a color pattern by tapping on buttons that fill specific sections of a 3x3 grid. The game requires precision and the player should match the computer's result, offering a great challenge for anyone looking to engage their mind with a colorful puzzle!
 
 ## Features
 - Interactive 3x3 grid with clickable buttons to color tiles.
