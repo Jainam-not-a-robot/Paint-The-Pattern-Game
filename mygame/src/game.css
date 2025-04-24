@@ -1,0 +1,52 @@
+/* td{
+    height:10vh;
+    width:10vh;
+}
+span tr td{
+    border-radius:10%;
+    border:0.5vh black solid;
+}
+table{
+    margin:0px;
+    padding:0px;
+    
+}
+div{
+    width:100%;
+    height:100%;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.noBorder{
+    border:0vh;
+}
+.block{
+    display:block;
+}
+.containerPlayer{
+    display:block;
+    text-align: center;
+    margin:0px auto;
+}
+.flexPlayer{
+    display:flex;
+    justify-content: center;
+    border-radius: 2%;
+    border-collapse:collapse;
+}
+.pink{
+    background-color: pink;
+}
+.grey{
+    background-color: grey;
+}
+.yellow{
+    background-color: yellow;
+} */
