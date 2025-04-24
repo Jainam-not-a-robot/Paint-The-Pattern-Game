@@ -9,8 +9,8 @@
 - Simple yet challenging gameplay.
 - Built with **ReactJS** for dynamic rendering and efficient state management.
 
-## Demo
-You can check out the live version of the game here: [**Live Demo**](https://your-demo-link.com)
+<!--## Demo
+You can check out the live version of the game here: [**Live Demo**](https://your-demo-link.com)-->
 
 ## Installation
 
