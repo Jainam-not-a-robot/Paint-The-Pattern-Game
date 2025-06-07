@@ -15,13 +15,8 @@ Built with **ReactJS**, it offers smooth interactions and an engaging user exper
 
 ---
 
-## 🚀 Live Demo
-<!-- Uncomment this once your game is hosted -->
-<!-- [🎮 Play Now](https://your-demo-link.com) -->
 
-*Coming soon...*
 
----
 
 ## 🛠 Installation & Setup
 
